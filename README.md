@@ -54,3 +54,19 @@ Calcium-mediated gelation
 Washing/conditioning
        ↓
 AGRO-BIOBEADS
+
+
+          ┌───────────────┐
+          │     ESP32     │
+          └───────┬───────┘
+                  │
+       ┌──────────┼──────────┐
+       │          │          │
+       ▼          ▼          ▼
+     pH         Turbidity    TDS/EC
+   Sensor        Sensor      Sensor
+       │          │          │
+       └──────────┼──────────┘
+                  │
+                  ▼
+             OLED DISPLAY

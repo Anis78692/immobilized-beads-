@@ -38,3 +38,19 @@
           │
           ▼
        OLED/LCD
+
+Sodium alginate
+       +
+Processed agro-waste
+       +
+Approved microbial consortium
+       ↓
+Homogeneous formulation
+       ↓
+Controlled bead formation
+       ↓
+Calcium-mediated gelation
+       ↓
+Washing/conditioning
+       ↓
+AGRO-BIOBEADS
